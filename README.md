@@ -1,2 +1,2 @@
 # TetrisProject
-Project focused on the game Tetris
+Project focused on the game Tetris.
